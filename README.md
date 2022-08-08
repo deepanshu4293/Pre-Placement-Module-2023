@@ -1,17 +1,17 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
-- Preferred Programming Language: C++/Java/Python
+- Name: Deepanshu Tiwari
+- University Roll No.:1900290400052
+- Branch:Mechanical
+- Section:B
+- Preferred Programming Language: Python
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
+- LeetCode: [user5386p](https://leetcode.com/user5386p/)
+- HackerRank: [deepanshu_1923m2](https://www.hackerrank.com/deepanshu_1923m2?hr_r=1)
 
 ## Placement Module
-1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
+1. [DS I](https://github.com/deepanshu4293/Pre-Placement-Module-2023/tree/main/DS%20I)
     | Weeks | Days | Days | Days | Days | Days | Days | Days |
     | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
     | Week 2 | [Day 1](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%201) | [Day 2](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%202) | [Day 3](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%203) | [Day 4](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%204) | [Day 5](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%205) | [Day 6](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%206) | [Day 7](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%207) |
